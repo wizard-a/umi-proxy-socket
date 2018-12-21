@@ -1,0 +1,14 @@
+{
+    "extends": "enough",
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "rules": {
+        "generator-star-spacing": [0],
+        "arrow-parens": [0],
+        "indent": [0],
+        "no-console": [0]
+
+    }
+}
