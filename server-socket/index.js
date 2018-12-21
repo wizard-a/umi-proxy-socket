@@ -9,6 +9,6 @@ io.on('connection', (socket) => {
     }, 5000)
     console.log('socket connection success');
  });
-server.listen(3000, () => {
+server.listen(3001, () => {
     console.log('server start');
 });
